@@ -1,0 +1,10 @@
+gateways:
+  - name: GATEWAY1
+    ip: 1.1.1.1
+    api_key: eyJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiYWxnIjoiZGlyIn0..ow02eP0BLVS-H5jVV0a-zA...
+  - name: GATEWAY2
+    ip: 2.2.2.2
+    api_key: eyJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiYWxnIjoiZGlyIn0..ow02eP0BLVS-H5jVV0a-zA...
+  - name: GATEWAY3
+    ip: 3.3.3.3
+    api_key: eyJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiYWxnIjoiZGlyIn0..ow02eP0BLVS-H5jVV0a-zA...
